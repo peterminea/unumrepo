@@ -1,0 +1,16 @@
+#define H1 328
+#define D1 4752
+#define N0 5178
+#define E1 426
+#define K2 13
+#define STOT 10
+#define NPS 15000068
+#define PRIME "/CFV1910.TXT"
+#define PUTERI "/PUTERIV1910.TXT"
+#define MAX2 44
+#define MAX1 MAX1300
+#define HV H300+2
+#define KV K300+2
+#define SV S300+2
+#define DV D300+2
+#define EV E300
