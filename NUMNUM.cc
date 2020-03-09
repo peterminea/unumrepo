@@ -5,9 +5,9 @@
 #include <locale.h>
 #include "/TEXTUL.h"
 #include "/GMP64.h"
-#define NGIG 6
+#define NGIG 9
 
-char gig[NGIG][20] = {"GIG52.TXT", "GIG70.TXT", "GIG80.TXT", "GIG90.TXT", "GIG100.TXT", "GIG110.TXT"};
+char gig[NGIG][20] = {"GIG170.TXT", "GIG180.TXT", "GIG190.TXT", "GIG200.TXT", "GIG210.TXT", "GIG220.TXT", "GIG240.TXT", "GIG270.TXT", "GIG300.TXT"};
 char A[NGIG][90];
 
 
