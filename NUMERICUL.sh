@@ -57,7 +57,7 @@ rm ERMETE0
 rm ERMETE1
 rm ERMETE2
 rm stingerea
-rm nnumsimpl
+rm NNUMSIMPL
 rm NMODPRIME
 rm NMODPRIMULE
 rm HMODPRIMSUM
@@ -124,7 +124,7 @@ g++ -m64 ERMETE1.cc -lgmp -fopenmp -o ERMETE1
 g++ -m64 ERMETE2.cc -lgmp -fopenmp -o ERMETE2
 g++ -m64 VECUNG2.cc -lgmp -fopenmp -o vecung2
 gcc -w STINGEREA.c -o stingerea
-g++ -m64 -L /usr/local/lib NNUMSIMPL.cc -o nnumsimpl -lgmp -fopenmp
+g++ -m64 -L /usr/local/lib NNUMSIMPL.cc -o NNUMSIMPL -lgmp -fopenmp
 g++ -m64 -L /usr/local/lib NMODPRIME.cc -o NMODPRIME -lgmp -fopenmp
 g++ -m64 -L /usr/local/lib NMODSPAR.cc -o NMODSPAR -lgmp -fopenmp
 g++ -m64 -L /usr/local/lib NMODIFSUM.cc -o NMODIFSUM -lgmp -fopenmp
